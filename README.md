@@ -1,5 +1,11 @@
-### Hi there 👋
-
+###
+# Hi
+# I mess around with docker/podman and Linux as well as other server stuff. Mostly scripting and other stuff
+```
+░█▀▀░█░█░█▀▀░
+░▀▀█░█░█░▀▀█░
+░▀▀▀░▀▀▀░▀▀▀░
+```
 <!--
 **successtheman/successtheman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
